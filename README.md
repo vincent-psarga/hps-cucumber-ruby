@@ -45,4 +45,3 @@ or to obtain json format
 The SUT implementation can be seen in [``src/coffee_machine.rb``](https://github.com/hiptest/hps-cucumber-ruby/blob/master/src/coffee_machine.rb)
 
 The test report is generated in the ```results/``` folder.
-
