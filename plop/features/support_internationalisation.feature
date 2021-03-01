@@ -17,3 +17,4 @@ Feature: Support internationalisation
       | language | ready_message | hiptest-uid |
       | en | Ready |  |
       | fr | Pret |  |
+      | nl | ???  |  |
