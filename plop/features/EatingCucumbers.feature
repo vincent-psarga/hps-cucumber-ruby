@@ -1,12 +1,7 @@
-#language: fr
+Feature: DataTables
 
-Fonctionnalité: plouf
-  
-  Scenarios: These are scenario
-    Given youpi
-  
-  Scenarios: coucou
-    Given tralala
-    Then et moi itou
-    
-  Scenario: this is a real scenario
+  Scenario: some whitespace is important
+    Given 3 lines of poetry on 5 lines
+      |  \nraindrops--\nher last kiss\ngoodbye.\n  |
+    Given an example of negative space
+      |        lost        i n        space        |
