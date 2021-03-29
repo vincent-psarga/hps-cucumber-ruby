@@ -1,4 +1,5 @@
-#language: fr
-
-Fonctionnalité: manger des concombres
-  Parce que c'est bon :)
+Feature: plouf
+  
+  Scenarios: coucou
+    Given tralala
+    Then et moi itou
