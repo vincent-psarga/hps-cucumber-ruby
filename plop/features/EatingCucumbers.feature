@@ -6,3 +6,5 @@ Feature: plouf
   Scenarios: coucou
     Given tralala
     Then et moi itou
+    
+  Scenario: this is a real scenario
