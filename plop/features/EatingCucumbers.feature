@@ -15,3 +15,4 @@ Feature: Eating cucumbers
       Examples:
         | things | stuff |
         | plic   | ploc  |
+        | plouf  | pliuf |
