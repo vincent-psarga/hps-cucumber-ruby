@@ -16,3 +16,4 @@ Feature: Eating cucumbers
         | things | stuff |
         | plic   | ploc  |
         | plouf  | pliuf |
+        | poi | poi|
