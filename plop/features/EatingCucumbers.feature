@@ -1,4 +1,6 @@
-Feature: plouf
+#language: fr
+
+Fonctionnalité: plouf
   
   Scenarios: These are scenario
     Given youpi
